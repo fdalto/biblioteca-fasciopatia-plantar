@@ -19,3 +19,12 @@ Técnica resumida: Não informado. Resultados publicados, taxas de sucesso e com
 ## Referências, figuras e notas
 
 Não informado. Consulte as pastas `artigos/`, `figuras/`, `videos/` e `notas/` para materiais associados.
+
+
+## Síntese para revisão médica — 17/11/2026
+
+Montes-Salas: 1 mL betametasona + 1 mL mepivacaína 2%, com dois terços profundos e um terço superficiais à fáscia; acesso medial em plano. Teymouri comparou metilprednisolona com dextrose; aos três meses as VAS médias relatadas foram 4,63 e 3,21, respectivamente. Os grupos e o tempo precisam acompanhar qualquer reprodução destes números.
+
+[Descrição técnica e fontes](../../_work/revisao-20261117/TECNICAS.md) · [Resultados por estudo](../../_work/revisao-20261117/RESULTADOS.md) · [Figuras e vídeos](../../_work/revisao-20261117/MIDIAS.md) · [Pendências e conflitos](../../_work/revisao-20261117/PENDENCIAS_E_CANDIDATOS.md)
+
+Os parágrafos acima são propostas para revisão, não protocolo clínico aprovado. Os campos não preenchidos no modelo original ainda requerem conferência nas fontes.

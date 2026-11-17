@@ -15,3 +15,12 @@ Taxas de sucesso devem informar o critério empregado pelos autores, denominador
 ## Referências, figuras, vídeos e notas
 
 Não informado. Consulte `artigos/`, `figuras/`, `videos/` e `notas/` para materiais associados.
+
+
+## Síntese para revisão médica — 17/11/2026
+
+Gurcay comparou 15 pacientes em cada plano, superficial ou profundo, e relatou maior melhora de subescalas FAOS e espessura no plano profundo em seis semanas; magnitude e dose não foram verificadas no texto integral. Montes-Salas utilizou plano profundo e superficial no mesmo braço. Um plano anatômico sem corticoide confirmado não recebe este subtipo.
+
+[Descrição técnica e fontes](../../../_work/revisao-20261117/TECNICAS.md) · [Resultados por estudo](../../../_work/revisao-20261117/RESULTADOS.md) · [Figuras e vídeos](../../../_work/revisao-20261117/MIDIAS.md) · [Pendências e conflitos](../../../_work/revisao-20261117/PENDENCIAS_E_CANDIDATOS.md)
+
+Os parágrafos acima são propostas para revisão, não protocolo clínico aprovado. Os campos não preenchidos no modelo original ainda requerem conferência nas fontes.

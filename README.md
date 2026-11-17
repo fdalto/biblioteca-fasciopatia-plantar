@@ -1,6 +1,6 @@
 # Biblioteca Científica — Intervenções Ecoguiadas na Fasciopatia Plantar
 
-Biblioteca local para organizar evidências sobre intervenções percutâneas guiadas por ultrassonografia na fasciopatia plantar proximal. Esta estrutura não contém fichas científicas preenchidas nem resultados clínicos inventados.
+Biblioteca local para organizar evidências sobre intervenções percutâneas guiadas por ultrassonografia na fasciopatia plantar proximal. As fichas contêm propostas científicas para revisão e links para as fontes; algumas lacunas ainda precisam de conferência.
 
 ## Procedimentos
 
@@ -33,6 +33,10 @@ Biblioteca local para organizar evidências sobre intervenções percutâneas gu
 | Código | Procedimento | Ficha |
 |---|---|---|
 | D1 | Bloqueio ecoguiado do nervo tibial | [D1 — Bloqueio tibial](procedimentos/D1-bloqueio-tibial/README.md) |
+
+## Pesquisa para revisão médica
+
+- [Técnicas e doses](_work/revisao-20261117/TECNICAS.md) · [Tabela de resultados](_work/revisao-20261117/RESULTADOS.md) · [Figuras e vídeos](_work/revisao-20261117/MIDIAS.md) · [Pendências e candidatos](_work/revisao-20261117/PENDENCIAS_E_CANDIDATOS.md)
 
 ## Navegação e dados
 
