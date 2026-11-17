@@ -1,0 +1,140 @@
+{
+  "versao_formato": "1.0",
+  "versao_classificacao": "2.0",
+  "data_exportacao": "2026-11-16",
+  "revisao": "Tratamentos percutâneos ecoguiados da fasciopatia plantar proximal",
+  "periodo_pesquisado": {
+    "inicio": "2022-11-16",
+    "fim": "2026-11-16",
+    "historicos_permitidos": true
+  },
+  "modalidades_cobertas": [
+    "A1",
+    "A1b",
+    "A2",
+    "A3",
+    "A4",
+    "B1",
+    "B2",
+    "C1",
+    "C2",
+    "D1"
+  ],
+  "status": "preliminar; pesquisa e validação científica incompletas",
+  "pendencias": [
+    "Busca sistemática e triagem ampliada",
+    "Conferência integral de ART005, ART006, ART007 e identificação de ART009",
+    "Mídias não baixadas; licenças e uso em redes sociais a verificar",
+    "C1 e C2 sem estudos confirmados nesta busca"
+  ],
+  "arquivos": [
+    {
+      "caminho": "RELATORIO.md",
+      "sha256": "5876025e4e488c21c185b5b368f38e677b09501bf7c11e73d787129fab1fcebf"
+    },
+    {
+      "caminho": "arquivos/figuras/LEIA-ME.txt",
+      "sha256": "0b1bdbc52c449895e161b23ed479762a156b129d54e560467f243bafb22bd81e"
+    },
+    {
+      "caminho": "arquivos/pdfs/LEIA-ME.txt",
+      "sha256": "0b1bdbc52c449895e161b23ed479762a156b129d54e560467f243bafb22bd81e"
+    },
+    {
+      "caminho": "arquivos/videos/LEIA-ME.txt",
+      "sha256": "0b1bdbc52c449895e161b23ed479762a156b129d54e560467f243bafb22bd81e"
+    },
+    {
+      "caminho": "dados/achados.csv",
+      "sha256": "4714b5c3fceb97b7baf0a01417dc1d23481f08fe43da695216ca6a317cd80c19"
+    },
+    {
+      "caminho": "dados/artigos.csv",
+      "sha256": "131a8f2c039db2b91fd8590e066d22bce188f5276c63c79be3eecfce2c346199"
+    },
+    {
+      "caminho": "dados/midias.csv",
+      "sha256": "1983c725dad7db2a809b32fcfcb41d6a51d1bc82214ef762f070a8f24900ffba"
+    },
+    {
+      "caminho": "dados/protocolos.csv",
+      "sha256": "c1adaf34c0f54621eff95caf4188660f18eeedb2fb42fc4845f6ea6302a601ad"
+    },
+    {
+      "caminho": "notas/ART001.md",
+      "sha256": "2ddb9ecfa4cadb9639b995363e433f5b2cdfc691232e3b435559d8084127e82f"
+    },
+    {
+      "caminho": "notas/ART002.md",
+      "sha256": "fe427b0d2d2941e676f8ecc31cbbc23bf70eb64b6d2faaaafc82e8409d452656"
+    },
+    {
+      "caminho": "notas/ART003.md",
+      "sha256": "65ce1941a4be97d5bc8de47749700304cae178183e20ae05af5a632d4f80adba"
+    },
+    {
+      "caminho": "notas/ART004.md",
+      "sha256": "5398866a49a701b40e3e64ace93538983e5b07bbab3a8a1e4be348f0de0dfcdf"
+    },
+    {
+      "caminho": "notas/ART005.md",
+      "sha256": "12b84d211177a6194d0136698b0c50e491fd1bd7e28d4871cf11484515348c71"
+    },
+    {
+      "caminho": "notas/ART006.md",
+      "sha256": "91aa87401a37db59efb6ccfbdc061cd051dc12da0f38d5550d2d8180d6c4b719"
+    },
+    {
+      "caminho": "notas/ART007.md",
+      "sha256": "adf5ce41ebac935a760559631d8d3a52616dc3beb320d8966bfd4ecfc4f454e0"
+    },
+    {
+      "caminho": "notas/ART008.md",
+      "sha256": "4dcb51c30238cbb9a3bb647855ce7e42672a98640d11346e7e0a8d159a55c395"
+    },
+    {
+      "caminho": "notas/ART009.md",
+      "sha256": "3d27d93fb2022c29aadfc5695273bece93769a9cba11ea1b95b16c6dab368d42"
+    },
+    {
+      "caminho": "propostas/A1.md",
+      "sha256": "480b9a234d4d5844e959b39df7257c998b42e990dc986e50660e9012d8b9e711"
+    },
+    {
+      "caminho": "propostas/A1b.md",
+      "sha256": "96fcbabb580ee9fae9a60760c34311b0999fc4ef96fec448339499bdad3cf713"
+    },
+    {
+      "caminho": "propostas/A2.md",
+      "sha256": "406b7f3c57502f6b91dc488d6432f426c9760388bf74dc6c5eb7778f5700fc23"
+    },
+    {
+      "caminho": "propostas/A3.md",
+      "sha256": "c43e460f5730dfd9ad5496687bc9752b0c418760fbe9d7a9b1c9865303e8ca06"
+    },
+    {
+      "caminho": "propostas/A4.md",
+      "sha256": "b5b21e8f96d2ce9bd28d02a13194c558e1ebcc28df09e287e815a81711f7a3c6"
+    },
+    {
+      "caminho": "propostas/B1.md",
+      "sha256": "b51c5e3b6f55265afb677fa69beab93c75421424270211d80cad4902c1665374"
+    },
+    {
+      "caminho": "propostas/B2.md",
+      "sha256": "587f43a48f2133075cdfd47a02b60c407765548e7949a8efc7d366fde4e9454b"
+    },
+    {
+      "caminho": "propostas/C1.md",
+      "sha256": "73ff3ec4ba0c71f03f85e7b3c30de846e8e361bb0f86055945a6f604f4854a86"
+    },
+    {
+      "caminho": "propostas/C2.md",
+      "sha256": "9b7f0aba8f23d24b00693028a8a4db4e40ca61c614ae35bfaca24785ace671cb"
+    },
+    {
+      "caminho": "propostas/D1.md",
+      "sha256": "6e6230e06add7ffef51d0decec5dc7d2a33ccffe0c7af6dea0221f91b7be91d7"
+    }
+  ]
+}

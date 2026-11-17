@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+_work/inbox/*
+_work/rejected/*
+_work/processed/*
+!_work/processed/work_export-20261116-221523/
+!_work/processed/work_export-20261116-221523/**
+procedimentos/**/artigos/*.pdf
+procedimentos/**/videos/*.mp4
+procedimentos/**/videos/*.mov
+procedimentos/**/videos/*.webm
+procedimentos/**/videos/*.mkv
+biblioteca/**/original.pdf
+prompt para work.txt

@@ -1,0 +1,15 @@
+article_id,tipo,identificador,pagina,legenda,url_origem,caminho_local,licenca,status
+ART007,vídeo,S3,,Injeção profunda à fáscia; eixo curto; medial para lateral em plano,https://onlinelibrary.wiley.com/doi/10.1002/jum.16694,,,Suplemento editorial; download retornou 403; direitos não verificados
+ART007,vídeo,S5,,Injeção intrafascial; eixo curto; medial para lateral em plano,https://onlinelibrary.wiley.com/doi/10.1002/jum.16694,,,Suplemento editorial; download retornou 403; direitos não verificados
+ART007,vídeo,S6,,Injeção ao longo da fáscia; eixo longo; proximal para distal em plano,https://onlinelibrary.wiley.com/doi/10.1002/jum.16694,,,Suplemento editorial; download retornou 403; direitos não verificados
+ART001,figura,Figura 5,,Bloqueio tibial posterior,https://link.springer.com/article/10.1186/s13018-024-04946-y,,CC BY 4.0; verificar créditos de terceiros,Link oficial; não baixado
+ART001,figura,Figura 6,,Agulha e fáscia na multipunctura,https://link.springer.com/article/10.1186/s13018-024-04946-y,,CC BY 4.0; verificar créditos de terceiros,Link oficial; não baixado
+ART001,figura,Figura 7,,Multipunctura,https://link.springer.com/article/10.1186/s13018-024-04946-y,,CC BY 4.0; verificar créditos de terceiros,Link oficial; não baixado
+ART001,figura,Figura 8,,Injeção profunda e superficial à fáscia,https://link.springer.com/article/10.1186/s13018-024-04946-y,,CC BY 4.0; verificar créditos de terceiros,Link oficial; não baixado
+ART004,figura,Figura 3,,Bloqueio tibial,https://pmc.ncbi.nlm.nih.gov/articles/PMC7903032/,,Verificar licença e créditos,Link oficial; não baixado
+ART004,figura,Figura 5,,Escolha do ponto de entrada,https://pmc.ncbi.nlm.nih.gov/articles/PMC7903032/,,Verificar licença e créditos,Link oficial; não baixado
+ART004,figura,Figura 6,,Posição da agulha sob a fáscia,https://pmc.ncbi.nlm.nih.gov/articles/PMC7903032/,,Verificar licença e créditos,Link oficial; não baixado
+ART004,figura,Figura 7,,Perfurações e movimento de secção,https://pmc.ncbi.nlm.nih.gov/articles/PMC7903032/,,Verificar licença e créditos,Link oficial; não baixado
+ART004,figura,Figura 8,,Visualização em dois eixos,https://pmc.ncbi.nlm.nih.gov/articles/PMC7903032/,,Verificar licença e créditos,Link oficial; não baixado
+ART004,vídeo,AAOS Educational Media Program,,Vídeo da técnica mencionado como disponível a cirurgiões mediante solicitação,https://pmc.ncbi.nlm.nih.gov/articles/PMC7903032/,,,Disponibilidade e direitos a confirmar
+ART008,figura,Steroid injection (sonographic image),,Imagem ecográfica da injeção em pôster educacional,https://epos.myesr.org/poster/esr/ecr2010/C-2366/Imaging%20findings%20OR%20Procedure%20,,,Visualização e permissão de reutilização a confirmar

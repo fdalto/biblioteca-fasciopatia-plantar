@@ -1,0 +1,7 @@
+"id_artigo","modalidade","modalidade_recebida","grupo_tratamento","desfecho","valor","unidade","momento","definicao_sucesso","denominador","origem","status_conferencia"
+"ART002","A2","A2","dextrose","VAS média","7,73 ± 1,28 para 3,21 ± 1,03","pontos","basal e 3 meses","","19","Texto integral: Results","texto integral"
+"ART002","A1","A1","corticoide","VAS média","7,89 ± 1,19 para 4,63 ± 1,11","pontos","basal e 3 meses","","19","Texto integral: Results","texto integral"
+"ART003","A2","A2","dextrose","PIS média","7,27 ± 1,24 para 3,18 ± 1,30","pontos","basal e 6 semanas","","22","Texto integral: Abstract","resumo confirmado no texto integral"
+"ART003","A4","A4","PRP","PIS média","7,55 ± 1,26 para 2,50 ± 0,67","pontos","basal e 6 semanas","","22","Texto integral: Abstract","resumo confirmado no texto integral"
+"ART004","B2","B2","fasciotomia","VAS média","7,523 ± 0,817 para 0,944 ± 1,726","pontos","basal e 12 meses","","107","Texto integral: Tabela 1","texto integral; série não controlada"
+"ART006","D1","D1","bloqueio tibial","dor e sensibilidade","Melhora relatada; diferença de redução da dor entre grupos não significativa","","até 3 meses","","","Resumo PubMed: Results","somente resumo"

@@ -1,0 +1,16 @@
+{
+  "classificacao": "2.0",
+  "ordem_categoria_A": ["A1", "A1.b", "A2", "A3", "A4"],
+  "modalidades": {
+    "A1": {"nome": "Injeção de corticoide", "substancia": "corticoide", "categoria": "A"},
+    "A1.b": {"nome": "Infiltração ecoguiada dirigida por plano", "subtipo_de": "A1", "substancia": "corticoide", "atributo_tecnico": "plano de administração", "planos_de_interesse": ["perifascial", "profundo da fáscia"], "categoria": "A"},
+    "A2": {"nome": "Proloterapia com dextrose hipertônica", "substancia": "dextrose hipertônica", "categoria": "A"},
+    "A3": {"nome": "Injeção de ácido hialurônico", "substancia": "ácido hialurônico", "categoria": "A"},
+    "A4": {"nome": "Injeção de plasma rico em plaquetas", "substancia": "PRP", "categoria": "A"},
+    "B1": {"nome": "Fenestração com agulha", "categoria": "B"},
+    "B2": {"nome": "Fasciotomia percutânea com agulha convencional", "categoria": "B"},
+    "C1": {"nome": "Fenestração com agulha + sangue autólogo", "categoria": "C"},
+    "C2": {"nome": "Fasciotomia percutânea com agulha + PRP", "categoria": "C"},
+    "D1": {"nome": "Bloqueio ecoguiado do nervo tibial", "categoria": "D"}
+  }
+}

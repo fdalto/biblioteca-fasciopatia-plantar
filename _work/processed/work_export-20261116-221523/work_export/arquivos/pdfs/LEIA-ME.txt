@@ -1,0 +1,1 @@
+Nenhum arquivo de mídia foi baixado nesta execução. Consulte dados/midias.csv e RELATORIO.md para fontes e pendências.
