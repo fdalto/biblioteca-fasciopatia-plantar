@@ -12,7 +12,7 @@ Esta pesquisa complementa os registros existentes, não aprova nem substitui fic
 
 ## A2 — dextrose
 
-**Ersen et al. 2018** ([texto integral, Methods e Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6709612/); DOI 10.5606/tftrd.2018.944, PMID 31453490): agulha 27G; transdutor no tubérculo medial do calcâneo, agulha pela face medial perpendicular ao eixo longo do transdutor, em direção à fáscia proximal, sob US contínuo; até cinco pontos; três sessões a intervalos de 21 dias. Cada sessão descrita com 3,6 mL de solução de dextrose 15% + 0,4 mL de lidocaína; concentração e volume dessa lidocaína, além do volume por ponto, não são especificados no trecho. A concentração de dextrose 15% identifica a solução antes da mistura, não deve ser automaticamente apresentada como concentração final.
+**Ersen et al. 2018** ([texto integral, Methods e Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6709612/); DOI 10.5606/tftrd.2018.944, PMID 31453490): agulha 27G; transdutor no tubérculo medial do calcâneo, agulha pela face medial perpendicular ao eixo longo do transdutor, em direção à fáscia proximal, sob US contínuo; até cinco pontos; três sessões a intervalos de 21 dias. Cada sessão descrita com 3,6 mL de solução de dextrose 15% + 0,4 mL de lidocaína; concentração da lidocaína e volume por ponto não são especificados no trecho. A concentração de dextrose 15% identifica a solução antes da mistura, não deve ser automaticamente apresentada como concentração final.
 
 **Teymouri et al. (ART002)**: 1 mL de dextrose 50% e 1 mL de lidocaína 2%, via medial. Calibre, posição detalhada do transdutor e plano preciso não foram confirmados. O estudo não chama explicitamente a mistura final de dextrose 50%. [Métodos](https://pmc.ncbi.nlm.nih.gov/articles/PMC12305661/).
 
@@ -20,7 +20,7 @@ Esta pesquisa complementa os registros existentes, não aprova nem substitui fic
 
 ## A3 e A4 — ácido hialurônico e PRP
 
-**Raeissadat 2020 (ART005):** AH >2.000 kDa, 20 mg em 1 mL mais 1 mL de lidocaína 2%; uma sessão ecoguiada. Calibre, orientação e trajetória não avaliados no texto integral. Comparador: metilprednisolona 40 mg em 1 mL mais 1 mL de lidocaína 2%. [Resumo PubMed](https://pubmed.ncbi.nlm.nih.gov/32021400/).
+**Raeissadat 2020 (ART005):** PDF integral editorial, p. 110–111 e Fig. 1: paciente em prona, joelho fletido 90°, tornozelo neutro; transdutor linear 3–12 MHz, US em eixo longitudinal; agulha 22G introduzida pela face medial, em plano, para fáscia espessada/hipoecoica. Uma entrada cutânea e várias penetrações fasciais (peppering), número não informado. Uma sessão: AH >2.000 kDa, 20 mg/1 mL + lidocaína 2% 1 mL; comparador metilprednisolona 40 mg/1 mL + lidocaína 2% 1 mL. Não houve eventos graves relatados. [PDF editorial, pp. 110–111](https://www.dovepress.com/getfile.php?fileID=55389).
 
 **Kumari 2025 (ART003):** 2 mL de PRP autólogo, agulha 21G, US fora de plano, na origem da fáscia; preparado por dupla centrifugação. Via específica e número de perfurações não confirmados. O grupo dextrose recebeu 1 mL de dextrose 25% mais 1 mL de lidocaína 2%. Há conflitos no artigo sobre grupos e resultados; ver tabela de resultados. [Métodos e resultados](https://pmc.ncbi.nlm.nih.gov/articles/PMC11830117/).
 
@@ -41,3 +41,13 @@ Esta pesquisa complementa os registros existentes, não aprova nem substitui fic
 **C2:** não foi identificado estudo confirmado de secção intencional com agulha convencional + PRP. Turner et al. utilizaram microtenotomia ultrassônica e foram excluídos de C2. Não equivale a inexistência de estudos.
 
 **D1:** Vardar et al. (ART006) estudaram bloqueio tibial como tratamento, mas produto, volume e técnica pormenorizada não avaliados no texto integral. [Resumo](https://pubmed.ncbi.nlm.nih.gov/41713549/). As doses de bloqueio em ART001 e ART004 se referem à anestesia dos outros procedimentos, não a um braço terapêutico D1.
+
+## Fontes adicionais — técnica e candidatos
+
+**Gurcay 2017 — A1.b.** Comparou aplicação ecoguiada superficial versus profunda à fáscia: 15 pacientes em cada grupo, avaliação na 1ª e 6ª semanas. O resumo relata melhora em ambos e maior melhora de subescalas FAOS e espessura no grupo profundo; não informa fármaco, agulha e dose no resumo. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28633777/), DOI 10.1053/j.jfas.2017.03.004; texto integral não avaliado.
+
+**McMillan 2012 — A1.** Ensaio com 82 pacientes: bloqueio tibial com lidocaína 2% em ambos os braços; injeção intrafascial com 1 mL de fosfato de dexametasona 4 mg/mL versus 1 mL de soro. A fonte descreve acesso medial oblíquo e agulha perpendicular ao eixo longo do transdutor. Calibre e volume do bloqueio não verificados neste levantamento. [Resumo PubMed](https://pubmed.ncbi.nlm.nih.gov/22619193/) e [editor](https://www.bmj.com/content/344/bmj.e3260), DOI 10.1136/bmj.e3260.
+
+**Nair e Sahoo 2016 — A1/A1.b: fonte educacional secundária.** Descrevem transdutor linear 6–13 MHz, imagem longitudinal e acesso medial fora de plano; anestesia cutânea com agulha 26G e lidocaína 1%; agulha 24G de 1,5 polegada, 1–2 mL contendo bupivacaína 0,25% e 4 mg de fosfato de dexametasona. O texto usa 'acima da fáscia' sem esclarecer inequivocamente a relação anatômica profunda/superficial; apresenta também figura da alternativa em plano. É descrição de revisão, não ensaio para inferir resultados. [Figuras 1–2 e técnica](https://pmc.ncbi.nlm.nih.gov/articles/PMC5044731/), PMID 27833490; licença CC BY-NC-SA 3.0, verificar créditos de terceiros.
+
+**Incarbone et al. ECR 2018 C-2033 — candidato.** Combinação de PRP autólogo e ácido hialurônico 0,8%, em 24 pacientes, sem braço comparador na página consultada. É combinação fora da classificação aprovada; não imputar ao tratamento isolado de A3 ou A4 e não chamar C2. Agulha, dose/volume, número de sessões e tempo exato do desfecho de dor não confirmados. [Pôster e Fig. 3](https://epos.myesr.org/poster/esr/ecr2018/C-2033), DOI 10.1594/ecr2018/C-2033.
