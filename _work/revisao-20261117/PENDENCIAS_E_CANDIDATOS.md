@@ -1,12 +1,12 @@
 # Auditoria e candidatos — 17/11/2026
 
-Este documento acompanha [TECNICAS.md](TECNICAS.md), [MIDIAS.md](MIDIAS.md) e [RESULTADOS.md](RESULTADOS.md). As propostas estão em branch de revisão; as fichas canônicas e CSVs de main não foram substituídos.
+Este documento acompanha [TECNICAS.md](TECNICAS.md), [MIDIAS.md](MIDIAS.md) e [RESULTADOS.md](RESULTADOS.md). As propostas estão em branch de revisão; as alterações nos CSVs e fichas ainda não foram mescladas em main.
 
 ## Correções a integrar posteriormente
 
-1. **ART005 — Raeissadat 2020:** na exportação anterior consta “resumo verificado; texto integral não conferido”. O [PDF integral oficial](https://www.dovepress.com/getfile.php?fileID=55389) foi consultado agora. Página 110–111: agulha 22G, abordagem medial em plano, ejeção por múltiplas penetrações fasciculares; Figura 1 mostra a técnica. Tabela 4, p. 114 e texto p. 116: 29/31 versus 25/29 atingiram redução ≥30% de VAS às 24 semanas. A atualização ainda não foi mesclada aos dados canônicos.
-2. **ART008 — Szopinski 2010:** a página oficial declara betametasona e o pôster tem associação A1 confirmada, embora o CSV de main esteja sem modalidade canônica. Confirmar a atualização pelo fluxo de revisão.
-3. **ART009 — Rayo 2024:** identificar pelo DOI 10.20986/revesppod.2024.1710/2024 e autores Rayo-Pérez, Rayo-Martín, Rayo-Rosado e García-de la Peña. O texto completo informa 10 casos em 9 pacientes, enquanto o resumo informa cinco. Preservar o conflito ao substituir o rótulo “candidato pendente” do CSV.
+1. **ART005 — Raeissadat 2020:** na exportação anterior consta “resumo verificado; texto integral não conferido”. O [PDF integral oficial](https://www.dovepress.com/getfile.php?fileID=55389) foi consultado agora. Página 110–111: agulha 22G, abordagem medial em plano, ejeção por múltiplas penetrações fasciculares; Figura 1 mostra a técnica. Tabela 4, p. 114 e texto p. 116: 29/31 versus 25/29 atingiram redução ≥30% de VAS às 24 semanas. O estado de acesso e a URL do PDF foram atualizados no branch.
+2. **ART008 — Szopinski 2010:** a página oficial declara betametasona e o pôster tem associação A1 confirmada, embora o CSV de main esteja sem modalidade canônica. Associação atualizada no branch.
+3. **ART009 — Rayo 2024:** identificar pelo DOI 10.20986/revesppod.2024.1710/2024 e autores Rayo-Pérez, Rayo-Martín, Rayo-Rosado e García-de la Peña. O texto completo informa 10 casos em 9 pacientes, enquanto o resumo informa cinco. Identidade atualizada no branch; conflito preservado no metadado e nesta nota.
 4. **ART001:** o resumo do artigo inverte o tamanho dos grupos em relação aos métodos e Tabela 1: métodos e tabela informam 40 multipunctura e 41 corticoide. Manter a divergência documentada.
 5. **ART003 e ART004:** não foram resolvidas as inconsistências previamente documentadas de PIS/FAOS e FADI, respectivamente. Não consolidar números incertos em taxa de resposta.
 
@@ -30,4 +30,4 @@ Outra série com o mesmo primeiro autor aparece no [PubMed 42677703](https://pub
 
 Em 17/11/2026 foram feitas buscas dirigidas com os termos “plantar fascia injection ultrasound EPOS”, “superficial deep plantar fascia corticosteroid”, “platelet rich plasma corticosteroid ultrasound plantar fasciitis”, “hyaluronic acid plantar fasciitis ultrasound randomized”, “perineural tibial dextrose plantar fasciitis” e variações. Fontes lidas: PubMed, páginas oficiais de periódicos, PMC, PDF do editor e EPOS. Não foi possível obter totais completos por base, deduplicar todos os resultados encontrados ou excluir trabalhos de forma sistemática. A revisão é uma coleção narrativa rastreável, não uma revisão sistemática completa.
 
-Pendências: conferir retrospectivamente novos artigos na íntegra e as licenças dos materiais individuais; verificar acesso e reprodução dos vídeos; ampliar C2 e técnicas com agulha 14–16G; avaliar formalmente vieses e perdas por estudo; integrar por identificadores, sem duplicar artigos ou sobrepor fichas aprovadas. Não há arquivos visuais no branch: links apontam para as fontes oficiais.
+Pendências: conferir retrospectivamente novos artigos na íntegra e as licenças dos materiais individuais; verificar acesso e reprodução dos vídeos; ampliar C2 e técnicas com agulha 14–16G; avaliar formalmente vieses e perdas por estudo; integrar os demais estudos por identificadores, sem duplicar artigos ou sobrepor fichas aprovadas. Não há arquivos visuais no branch: links apontam para as fontes oficiais.
