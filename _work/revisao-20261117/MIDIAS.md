@@ -16,3 +16,12 @@ O endereço aponta para a fonte original e o local da mídia. Uma legenda identi
 ## Limites da busca
 
 Busca dirigida em EPOS e páginas de artigos; não é inventário exaustivo. Links de figuras e descrições foram verificados, mas a inspeção visual independente de cada vídeo e seu conteúdo integral não foi concluída. Para redes sociais, verificar licença, crédito, possibilidade de adaptação, direito de imagem do paciente e se eventual uso é comercial.
+
+## Mais fontes visuais verificadas
+
+| Fonte | Elemento | Condição de uso e observações |
+|---|---|---|
+| [Incarbone et al., ECR 2018 C-2033](https://epos.myesr.org/poster/esr/ecr2018/C-2033) | Figura 1 ecografia; Figura 2 RM; Figura 3 infiltração ecoguiada de PRP + AH. | Pôster científico; licença individual não confirmada, imagem identificada por legenda e não copiada. Combinação fora da classificação aprovada. |
+| [Raeissadat et al., PDF oficial, p. 110–111](https://www.dovepress.com/getfile.php?fileID=55389) | Figura 1, fotografia da posição do transdutor e entrada da agulha. | Conferir licença do artigo e eventuais direitos de terceiros antes de reproduzir. |
+| [Nair e Sahoo 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5044731/) | Figuras 1 e 2 mostram posições da sonda e entradas fora de plano e em plano. | CC BY-NC-SA 3.0 conforme artigo; uso comercial e eventual adaptação requerem análise das condições e créditos. |
+| [McMillan et al. 2012](https://www.bmj.com/content/344/bmj.e3260) | Figura 1 da injeção; figura suplementar de bloqueio tibial descrita pelo artigo. | Página editorial retornou 403; imagens e licença individual não verificadas. |
