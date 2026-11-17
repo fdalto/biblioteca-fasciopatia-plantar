@@ -9,7 +9,7 @@
   "desenho": "Ensaio randomizado triplo-cego",
   "url": "https://pubmed.ncbi.nlm.nih.gov/32021400/",
   "pdf": "",
-  "pdf_url": "",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=55389",
   "licenca": "",
   "modalidades": [
     "A1",
@@ -17,8 +17,8 @@
   ],
   "modalidades_recebidas": "A1;A3",
   "status_triagem": "Fonte histórica relevante",
-  "status_texto_completo": "Resumo verificado; texto integral não conferido",
+  "status_texto_completo": "Texto integral editorial consultado",
   "motivo_exclusao": "",
   "classificacao": "2.0",
-  "status_conferencia": "Importação preliminar; validar conforme relatório e nota do artigo."
+  "status_conferencia": "Texto integral consultado; detalhes e perdas documentados na revisão 2026-11-17."
 }

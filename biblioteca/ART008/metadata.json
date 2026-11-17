@@ -11,11 +11,13 @@
   "pdf": "",
   "pdf_url": "",
   "licenca": "",
-  "modalidades": [],
+  "modalidades": [
+    "A1"
+  ],
   "modalidades_recebidas": "A1",
   "status_triagem": "Fonte histórica relevante",
   "status_texto_completo": "Página do pôster",
   "motivo_exclusao": "",
   "classificacao": "2.0",
-  "status_conferencia": "Importação preliminar; validar conforme relatório e nota do artigo."
+  "status_conferencia": "Associação A1 confirmada pela descrição de betametasona no pôster."
 }
